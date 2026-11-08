@@ -26,7 +26,7 @@ Aprendendo desenvolvimento web e construindo projetos na prática
 
 ### Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha base em desenvolvimento back-end. Aprendo na prática criando projetos web com Python e JavaScript, explorando também HTML, CSS, Flask e SQLite.
+Sou estudante de Engenharia de Software e quero construir minha carreira na área de Engenharia de Inteligência Artificial. Tenho buscado formação complementar por meio de cursos na área de tecnologia e pretendo continuar estudando e me especializando em IA. Também tenho experiência em e-commerce com Shopify e Bling, conhecimentos básicos em APIs e atuação como estoquista, com atividades de controle de estoque e logística. Combinei essa experiência prática com conhecimentos iniciais em lógica de programação, JavaScript, Python, Git e GitHub.
 
 ### Projeto em destaque
 
