@@ -38,8 +38,8 @@ Uma vitrine e plataforma de pedidos para uma loja de camisas de futebol. O proje
 | Área | Tecnologias |
 | --- | --- |
 | Front-end | HTML, CSS e JavaScript |
-| Back-end | Python e Flask |
-| Banco de dados | SQLite |
+| Back-end | Python  |
+
 
 ---
 
